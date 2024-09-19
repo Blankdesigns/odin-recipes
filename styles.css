@@ -1,0 +1,14 @@
+/* Comment for later */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(4, 116, 4);
+}
+
+.recipes-list {
+    color: black;
+    font-size: 22px;
+    font-weight: 100;
+}
